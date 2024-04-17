@@ -1,0 +1,11 @@
+body {
+    background-color: #3b3b4f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center; /* items in het midden van de pagina uitlijnen */
+}
+
+#general-container {
+    display: block;
+    justify-content: center; /* items binnen de container centreren */
+}
